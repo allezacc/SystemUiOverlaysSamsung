@@ -4,7 +4,7 @@
     <string name="ThemeAuthor">Alessandro</string>
     <!-- Your email for bug reports (DEFAULT: empty) -->
     <!--suppress CheckTagEmptyBody -->
-    <string name="ThemeAuthorEmail"></string>
+    <string name="ThemeAuthorEmail">zacca03@gmail.com</string>
     <!-- Do you support Stock and Theme Ready Gapps? -> all -->
     <!-- Do you support Theme Ready but not Stock Gapps? -> ready -->
     <!-- Do you support Stock but not Theme Ready Gapps? -> stock -->
